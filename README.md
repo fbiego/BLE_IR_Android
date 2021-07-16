@@ -1,6 +1,12 @@
 # BLE_IR_Android
 Remote app for DIY ESP32 IR remote
 
+## Layout
+
+A layout (txt file) that defines the buttons and codes should be loaded to the app
+
+See here [`Button Layout`](https://github.com/fbiego/BLE_IR_ESP32#remote-layout)
+
 
 ## ESP32
 
